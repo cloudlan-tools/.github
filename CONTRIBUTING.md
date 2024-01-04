@@ -1,5 +1,5 @@
 <p align="center" width="100%" style="margin-bottom: 3rem">
-  <img src="./assets/logo/cloudlan%20logo.png" style="max-width: 20rem;" alt="CloudLAN Tools logo" />
+  <img src="https://github.com/cloudlan-tools/.github/blob/main/assets/logo/cloudlan%20logo.png" style="max-width: 20rem;" alt="CloudLAN Tools logo" />
 </p>
 
 # Contributing to CloudLAN Tools
