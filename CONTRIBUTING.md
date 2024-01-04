@@ -4,7 +4,8 @@
 
 # Contributing to CloudLAN Tools
 
-Thank you for considering contributing to CloudLAN Tools! Your involvement is crucial in improving our tools and enhancing LAN party organization.
+Thank you for considering contributing to CloudLAN Tools!  
+Your involvement is crucial in improving our tools and enhancing LAN party organization.
 
 
 ## Contribution Guidelines
