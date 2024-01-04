@@ -2,6 +2,8 @@
   <img src="./assets/logo/cloudlan%20logo.png" style="max-width: 40rem;" alt="CloudLAN Tools logo" />
 </p>
 
+# CloudLAN Tools
+
 Welcome to CloudLAN Tools!
 
 ## About Us
